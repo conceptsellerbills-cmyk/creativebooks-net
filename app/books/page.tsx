@@ -155,6 +155,32 @@ const BOOKS = [
       "You want integrity, emotional independence, and quiet confidence",
     ],
   },
+  {
+    title: "Karma and Life Lessons: Awakening the Soul Through Life's Lessons and Spiritual Growth",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71zJkwyhxQL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GD1R8WVC",
+    kindleUrl: "https://www.amazon.com/dp/B0GCWZTY98",
+    tag: "Karma & Spiritual Growth",
+    badge: "Available Now",
+    shortDesc: "A gentle yet powerful spiritual guide for anyone who has ever wondered why certain experiences repeat, why pain returns in cycles, and how healing and awakening truly happen from within.",
+    longDesc: "Karma & Life Lessons is not about punishment, destiny, or fear. It is about consciousness. It is about growth. It is about learning to live with awareness, compassion, presence, and truth. Through deeply reflective chapters filled with warmth and clarity, this book invites you into a conversation with your soul — guiding you inward toward stillness, awareness, and self-love. You will learn to see your journey not as a series of mistakes, but as a sacred unfolding filled with lessons, growth, and awakening.",
+    topics: [
+      "How karma acts as a mirror for the soul",
+      "How emotional wounds can be healed with compassion",
+      "How to release the past without losing its wisdom",
+      "How to trust change, uncertainty, and new beginnings",
+      "How to awaken inner peace and live from the heart",
+      "How purpose, meaning, and intuition gently reveal themselves",
+      "How to become a conscious creator of your own life",
+    ],
+    forYouIf: [
+      "You feel called to live more consciously and let go of old cycles",
+      "You wonder why certain painful experiences keep repeating",
+      "You seek healing, spiritual growth, and deeper self-understanding",
+      "You want to reconnect with the quiet wisdom inside your heart",
+    ],
+  },
 ];
 
 export default function BooksPage() {
