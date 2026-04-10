@@ -281,6 +281,31 @@ const BOOKS = [
       "You are ready to give yourself 30 focused days to begin",
     ],
   },
+  {
+    title: "Entrepreneur Goal Planner: Building Success From the Inside Out",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71LDtlIg+NL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GCY6968C",
+    kindleUrl: "https://www.amazon.com/dp/B0GCJVRKXH",
+    tag: "Mindset & Conscious Success",
+    badge: "Available Now",
+    shortDesc: "More than a business book — a guided journey into clarity, purpose, alignment, mindset, and conscious success. Created for entrepreneurs who want to build something meaningful without losing themselves along the way.",
+    longDesc: "Most planners focus only on goals, metrics, strategy, and productivity. Entrepreneur Goal Planner goes deeper. It helps you reconnect with your why, refine your vision, align your actions with your values, and design success that actually feels fulfilling — not just impressive on paper. Through reflective chapters, mindset shifts, guided prompts, and deep self-awareness work, you will learn how to build confidence from the inside out, navigate uncertainty with grace, trust your intuition, and grow without burning out.",
+    topics: [
+      "Build a business that aligns with your soul",
+      "Set goals that feel authentic and inspiring",
+      "Develop emotional resilience and self-trust",
+      "Experience wealth with meaning and purpose",
+      "Redefine success on your own terms",
+      "Grow with presence, grace, and clarity",
+    ],
+    forYouIf: [
+      "You are starting your entrepreneurial path or seeking deeper alignment",
+      "You want goals that are true to you — not borrowed from comparison or pressure",
+      "You want to heal scarcity thinking and build inner confidence",
+      "You believe real success begins within, not just with strategy",
+    ],
+  },
 ];
 
 export default function BooksPage() {
