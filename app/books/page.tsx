@@ -306,6 +306,31 @@ const BOOKS = [
       "You believe real success begins within, not just with strategy",
     ],
   },
+  {
+    title: "Why Intelligent People Stay Poor: How Overthinking, Fear, and Comfort Quietly Kill Potential",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71dQqwOhawL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GCYNFHCR",
+    kindleUrl: "https://www.amazon.com/dp/B0GC7TBNG1",
+    tag: "Intelligence & Financial Freedom",
+    badge: "Available Now",
+    shortDesc: "Why do so many intelligent, capable, highly educated people remain financially stuck despite doing everything right? This book explains — with brutal clarity — how intelligence itself can become a trap.",
+    longDesc: "Why Intelligent People Stay Poor is not a motivation book. It will not hype you. Instead, it explains how overthinking quietly replaces action and feels responsible while doing it, how fear disguises itself as logic and caution, and why being competent is often rewarded with more work — not more power. This is a clear, grounded framework for understanding why you are stuck, how you got there, and what a realistic exit looks like — without burning your life down.",
+    topics: [
+      "Why intelligence does not automatically translate into money or leverage",
+      "How overthinking quietly replaces action — and feels responsible doing it",
+      "How fear disguises itself as logic, caution, and 'waiting for the right moment'",
+      "Why smart people optimize the wrong things and avoid decisions that matter most",
+      "How systems and long-term positioning matter more than raw effort",
+      "Why many intelligent people are trapped not by lack of opportunity — but by identity",
+    ],
+    forYouIf: [
+      "You feel overqualified for the life you are living",
+      "You understand what should be done but struggle to move consistently",
+      "You are financially okay but internally dissatisfied",
+      "You want clarity, not comfort — and are ready to stop protecting your intelligence",
+    ],
+  },
 ];
 
 export default function BooksPage() {
