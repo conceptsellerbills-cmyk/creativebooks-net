@@ -181,6 +181,31 @@ const BOOKS = [
       "You want to reconnect with the quiet wisdom inside your heart",
     ],
   },
+  {
+    title: "Your Vibration Attracts Your Reality: The Quiet Power of Energy, Awareness, and Conscious Living",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71G+MF0aAPL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GCY5HKXT",
+    kindleUrl: "https://www.amazon.com/dp/B0GCLD99D6",
+    tag: "Vibration & Conscious Living",
+    badge: "Available Now",
+    shortDesc: "Your vibration is the silent language through which you communicate with life. What if your reality is shaped not only by actions and circumstances — but by the energy you carry within you every single day?",
+    longDesc: "Your Vibration Attracts Your Reality is a heart-opening journey into consciousness, healing, and inner transformation. Written with warmth, depth, and clarity, this book gently guides you back to the truth within yourself — the still, loving awareness beneath fear, conditioning, and doubt. This is not a book about forcing positivity or pretending life is always easy. It is a guide to living awake — to honoring your emotions, listening to your body, healing your inner child, and choosing your energy with intention.",
+    topics: [
+      "Why your inner state quietly shapes your outer world",
+      "How emotions, thoughts, intuition, and presence influence your frequency",
+      "The healing power of self-love, gratitude, and authenticity",
+      "How to release attachment, fear, and old emotional patterns",
+      "How alignment, purpose, and awareness create flow in life",
+      "How to live consciously — moment by moment — with an open heart",
+    ],
+    forYouIf: [
+      "You are beginning your spiritual journey or deepening your inner work",
+      "You feel disconnected from yourself and want to return to love",
+      "You want to understand how your energy shapes your daily reality",
+      "You seek presence, healing, and a more conscious way of living",
+    ],
+  },
 ];
 
 export default function BooksPage() {
