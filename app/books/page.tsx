@@ -232,6 +232,31 @@ const BOOKS = [
       "You have ever felt a love so powerful that it changed everything",
     ],
   },
+  {
+    title: "From Woman to Mother The Emotional Journey of Pregnancy: Where a New Life Begins and a New Heart Is Born",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/61pzcRSFBFL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GCYHTP9H",
+    kindleUrl: "https://www.amazon.com/dp/B0GCNL82WM",
+    tag: "Motherhood & Emotional Journey",
+    badge: "Available Now",
+    shortDesc: "A gentle, soul-warming book that explores what truly happens inside a woman's heart as she grows a new life — and becomes someone new herself. This is not a medical guide. It is a story of feelings.",
+    longDesc: "From Woman to Mother follows the emotional path from the first flutter of awareness to the sacred moment of birth — and the tender days that follow. It speaks honestly about joy and doubt, strength and vulnerability, identity, transformation, and the love that reshapes a woman's entire world. Every page is an invitation to slow down, breathe, and feel seen. Whether you are pregnant now, remembering your journey, or supporting someone you love, this book offers comfort, reassurance, and understanding — a reminder that becoming a mother is not only the birth of a child, but the awakening of a deeper heart.",
+    topics: [
+      "The emotional shift from woman to mother",
+      "Hope, fear, and the quiet beginnings of love",
+      "Identity transformation during pregnancy",
+      "Strength and vulnerability in becoming",
+      "The sacred moment of birth and what follows",
+      "The love that reshapes a woman's entire world",
+    ],
+    forYouIf: [
+      "You are pregnant and want to feel seen and understood",
+      "You are a new mother navigating this tender new chapter",
+      "You want to support someone you love through their journey",
+      "You cherish emotional storytelling and the beauty of inner transformation",
+    ],
+  },
 ];
 
 export default function BooksPage() {
