@@ -257,6 +257,30 @@ const BOOKS = [
       "You cherish emotional storytelling and the beauty of inner transformation",
     ],
   },
+  {
+    title: "From Idea to Online Business in 30 Days: Transform Your Vision into a Real, Sustainable Online Business",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71B78TNc+VL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GCZ2GFF5",
+    kindleUrl: "https://www.amazon.com/dp/B0GCJFT38W",
+    tag: "Entrepreneurship & Online Business",
+    badge: "Available Now",
+    shortDesc: "What if you gave yourself just 30 days — not to dream about a different life, but to start building it? A real-world journey from the first spark of inspiration all the way to launching your own online business.",
+    longDesc: "From Idea to Online Business in 30 Days is more than a guidebook. It walks beside you with grounded guidance, emotional support, and a human-centered approach to entrepreneurship. Instead of hype, shortcuts, or empty promises, you'll find a new relationship with yourself — one built on self-trust, creativity, emotional strength, and the quiet courage to begin. This is not a book about hustling harder. It's a book about building smarter and living more intentionally.",
+    topics: [
+      "Turn an idea into a real, structured business",
+      "Understand your audience and create true value",
+      "Build trust, purpose, and resilience",
+      "Navigate doubt, fear, and uncertainty",
+      "Launch with integrity — and grow sustainably",
+    ],
+    forYouIf: [
+      "You are starting from zero experience or working a full-time job",
+      "You feel stuck between 'I wish' and 'one day'",
+      "You want grounded, human-centered guidance — not hype",
+      "You are ready to give yourself 30 focused days to begin",
+    ],
+  },
 ];
 
 export default function BooksPage() {
