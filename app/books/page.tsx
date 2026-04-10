@@ -206,6 +206,32 @@ const BOOKS = [
       "You seek presence, healing, and a more conscious way of living",
     ],
   },
+  {
+    title: "Twin Souls The Spiritual Journey of Remembering Each Other: How Two Souls Travel Across Lifetimes to Find Love, Healing, and Wholeness",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71i28dnGUeL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GD1PPW7M",
+    kindleUrl: "https://www.amazon.com/dp/B0GCNZJ47H",
+    tag: "Twin Souls & Divine Love",
+    badge: "Available Now",
+    shortDesc: "What if the deepest love story of your life isn't about another person — but about your awakening soul? A spiritual journey through the mystery of twin souls — the rare connection that arrives not to complete you… but to awaken you.",
+    longDesc: "Through 25 heartfelt chapters of guidance, reflection, and soul-level truth, Twin Souls leads you gently from longing and attachment into self-love, wholeness, and inner union. This is not a fairy-tale romance — it is the sacred path of remembering who you truly are. Written for the sensitive, the intuitive, the spiritually aware — for anyone who has ever felt a love so powerful that it changed everything. By the final pages, you will no longer be asking how to find your other half. You will remember that you were whole all along.",
+    topics: [
+      "Why soul connections enter our lives",
+      "The difference between attachment and divine love",
+      "Healing abandonment, fear, and emotional dependency",
+      "Self-love as a sacred union",
+      "Spiritual maturity and surrender",
+      "The eternal nature of love beyond time",
+      "Returning to Oneness — where all souls meet again",
+    ],
+    forYouIf: [
+      "You are in union, separation, or searching for meaning in a deep connection",
+      "You want to move from longing and attachment into inner wholeness",
+      "You are sensitive, intuitive, and spiritually aware",
+      "You have ever felt a love so powerful that it changed everything",
+    ],
+  },
 ];
 
 export default function BooksPage() {
