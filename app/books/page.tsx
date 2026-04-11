@@ -356,6 +356,31 @@ const BOOKS = [
       "You want a story that pulls you in — and refuses to let go",
     ],
   },
+  {
+    title: "Why the Wrong Love Feels So Right",
+    author: "Constantin Cristian",
+    cover: "https://m.media-amazon.com/images/I/71IE26sC0sL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GD294BTQ",
+    kindleUrl: "https://www.amazon.com/dp/B0GBJPV3HC",
+    tag: "Relationships & Emotional Patterns",
+    badge: "Available Now",
+    shortDesc: "You don't fall for the wrong people by accident. You fall for what feels familiar — even when it hurts. A deep, compassionate exploration of the hidden emotional patterns that shape who you love.",
+    longDesc: "Why the Wrong Love Feels So Right explains why unhealthy relationships can feel so powerful, addictive, and hard to leave — not by blaming you, but by showing what your nervous system learned long before you were aware of it. This honest, grounded guide helps you understand why your body and mind are drawn to the wrong love in the first place — and how to gently, realistically shift that pattern. Healing doesn't start with finding the right person. It starts with not abandoning yourself.",
+    topics: [
+      "Why 'chemistry' is often a trauma response, not compatibility",
+      "How attachment wounds and childhood conditioning shape adult relationships",
+      "Why emotionally unavailable people feel so magnetic",
+      "What trauma bonds are — and why they're so hard to break",
+      "Why boundaries can feel guilty — and why they change everything",
+      "How to stop repeating the same painful relationship patterns",
+    ],
+    forYouIf: [
+      "You keep attracting partners who can't fully show up",
+      "Love feels intense, confusing, or painful more often than peaceful",
+      "You overgive, overthink, or abandon yourself to keep a relationship",
+      "You want clarity — not another surface-level dating guide",
+    ],
+  },
 ];
 
 export default function BooksPage() {
