@@ -755,6 +755,31 @@ const BOOKS = [
       "You are ready for your voice to become clear, grounded, and trustworthy",
     ],
   },
+  {
+    title: "The Frequency Code: Raise Your Vibration, Clear Emotional Blocks and Align Your Life from the Inside Out",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/712KrwM5mPL._SL1499_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GK6GKGN7",
+    kindleUrl: "https://www.amazon.com/dp/B0GK23GKJ4",
+    tag: "Energy & Vibrational Alignment",
+    badge: "Available Now",
+    shortDesc: "What if 'high vibration' isn't a mood you chase — but a baseline you build? A practical spiritual guide to raising your vibration in a way that actually lasts.",
+    longDesc: "The Frequency Code teaches how frequency works at the level that matters most: your nervous system, habits, emotional patterns, and the standards you live by. When your inner world becomes coherent, your outer life starts responding — more peace, cleaner relationships, clearer intuition, and manifestation that doesn't collapse the moment stress hits. Includes a clear 30-day plan you can repeat anytime you need a reset.",
+    topics: [
+      "Release emotional blocks without suppression or fake positivity",
+      "Raise your baseline through simple nervous-system regulation tools",
+      "Stop chasing and start receiving — love, money, opportunities",
+      "Build belief through small wins that rewire identity",
+      "Protect your energy in relationships and avoid draining dynamics",
+      "Reset fast on low days and maintain alignment long-term",
+    ],
+    forYouIf: [
+      "You are tired of spiritual advice that sounds good but doesn't change your life",
+      "You want a grounded, repeatable path back to yourself",
+      "You struggle with self-sabotage when love, money, or opportunities arrive",
+      "You are ready for vibration as a lifestyle — not a temporary phase",
+    ],
+  },
 ];
 
 export default function BooksPage() {
