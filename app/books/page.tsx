@@ -730,6 +730,31 @@ const BOOKS = [
       "You want a spiritual approach grounded in logic, not blind belief",
     ],
   },
+  {
+    title: "The Power of Your Word: How Speech, Intention, and Inner Truth Shape Your Reality",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71Pt1rWrOhL._SL1499_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GK981L2K",
+    kindleUrl: "https://www.amazon.com/dp/B0GK5H2QZN",
+    tag: "Conscious Language & Self-Trust",
+    badge: "Available Now",
+    shortDesc: "Your words are not 'just words.' They are agreements. The way you speak — out loud and inside your mind — can regulate you back into safety, or keep you stuck in anxiety, people-pleasing, and self-betrayal.",
+    longDesc: "The Power of Your Word is a practical spiritual guide to conscious language: how to stop feeding fear, lack, and old identity scripts — and start speaking with integrity, calm authority, and real alignment. Not fluffy affirmations — a grounded, step-by-step approach to using speech as a daily spiritual tool to heal patterns, set clean boundaries, protect your energy, and build self-trust through what you say (and what you stop saying).",
+    topics: [
+      "Why certain phrases trigger anxiety — and how to speak in ways that calm the body",
+      "How agreement language keeps old patterns alive — and how to break them",
+      "Clean boundary scripts that don't create war",
+      "The difference between apology, forgiveness, and excusing harm",
+      "A personal word code of non-negotiable phrases — and forbidden phrases to stop feeding",
+      "A 30-day transformation plan to turn your speech into embodied identity",
+    ],
+    forYouIf: [
+      "You want to stop leaking power through unconscious words",
+      "You struggle with people-pleasing, over-apologizing, or self-betrayal in how you speak",
+      "You want boundaries that are clean, calm, and actually respected",
+      "You are ready for your voice to become clear, grounded, and trustworthy",
+    ],
+  },
 ];
 
 export default function BooksPage() {
