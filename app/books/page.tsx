@@ -555,6 +555,31 @@ const BOOKS = [
       "You are ready for a steady, compassionate path — not a quick fix",
     ],
   },
+  {
+    title: "Why Nothing Feels Enough: A Deep Exploration of Emptiness, Desire, and the Modern Mind",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/61zV4MC3Z8L._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GG72C7YL",
+    kindleUrl: "https://www.amazon.com/dp/B0GG4TX5NW",
+    tag: "Psychology & Inner Fulfillment",
+    badge: "Available Now",
+    shortDesc: "Why do you keep chasing 'more' and still feel empty? The problem isn't that you don't have enough. The problem is that you've been living from lack — a nervous system that can't settle and an inner disconnect you can't name.",
+    longDesc: "Why Nothing Feels Enough is a deep, modern guide for anyone trapped in the cycle of desire, distraction, and emotional numbness. With chapters that read like a conversation with your most honest self, this book explores the hidden psychology behind chronic dissatisfaction — and shows you how to rebuild the inner conditions for real fulfillment. Fulfillment isn't something you achieve. It's something you learn to inhabit.",
+    topics: [
+      "Why pleasure and achievements can't satisfy when the nervous system doesn't feel safe",
+      "How comparison, stimulation, and consumption drain meaning from life",
+      "The difference between want and need — and why emotional hunger creates endless craving",
+      "Why rest can feel threatening, even when nothing is wrong",
+      "How self-abandonment and identity performance keep you disconnected",
+      "What it means to build inner wholeness without 'fixing' yourself",
+    ],
+    forYouIf: [
+      "You ask yourself 'why am I still not satisfied?' despite having a decent life",
+      "You feel guilty for not being happier with what you have",
+      "You are tired of chasing a life that looks good but doesn't feel good",
+      "You want presence, safety, meaning, and self-connection — not another checklist",
+    ],
+  },
 ];
 
 export default function BooksPage() {
