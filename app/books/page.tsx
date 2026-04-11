@@ -1204,6 +1204,31 @@ const BOOKS = [
       "You want hours of creative entertainment that supports focus and calm",
     ],
   },
+  {
+    title: "Sacred Feminine, Sacred Masculine: Healing Polarity in Love and Life",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71dINBOVf0L._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GG9V18J4",
+    kindleUrl: "https://www.amazon.com/dp/B0GG7DQK6N",
+    tag: "Polarity & Sacred Love",
+    badge: "Available Now",
+    shortDesc: "What if the love you crave isn't missing — but your polarity is? A grounded, practical guide to restoring magnetism, intimacy, and emotional safety without stereotypes, manipulation, or spiritual bypassing.",
+    longDesc: "Sacred Feminine, Sacred Masculine reveals how polarity actually works in the nervous system, why boundaries are erotic, and how to heal wounded feminine and wounded masculine patterns. You'll rebuild trust, communication, and sensual connection over the long term — through somatic practices, clean communication, and daily rituals that keep love alive for years, not weeks.",
+    topics: [
+      "How attachment styles, trauma, and stress shut down desire — and how to reopen it",
+      "The difference between devotion and possession, surrender and self-abandonment",
+      "Clean communication that protects polarity: truth, tone, and repair",
+      "Somatic practices for breath, voice, and regulation that bring you back into your body",
+      "Libido differences, desire cycles, and erotic scripts that fit real life",
+      "Practical daily and weekly rituals to keep love alive for years",
+    ],
+    forYouIf: [
+      "Desire has faded in your relationship and you don't know why",
+      "You want more presence, honesty, safety — and more spark",
+      "You are healing after betrayal or rebuilding your connection to intimacy",
+      "You are ready to stop repeating old patterns and create love that feels both sacred and real",
+    ],
+  },
 ];
 
 export default function BooksPage() {
