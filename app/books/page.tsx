@@ -456,6 +456,31 @@ const BOOKS = [
       "You want OBE exploration to ground you, not pull you away from life",
     ],
   },
+  {
+    title: "Before This Life: Remembering Your Soul's Journey Through Reincarnation",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71aMpLf62QL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GHJG6KCV",
+    kindleUrl: "https://www.amazon.com/dp/B0GH8TNLGG",
+    tag: "Reincarnation & Soul Memory",
+    badge: "Available Now",
+    shortDesc: "A grounded, deeply comforting guide for anyone who feels there's more to their story than one lifetime — blending spiritual insight with practical psychology.",
+    longDesc: "Before This Life explores why certain people feel instantly familiar, why repeating relationship patterns can feel 'fated,' and how the body can carry memories the mind can't explain. This isn't a book that demands blind belief. It helps you live better — calmer, clearer, and more aligned — whether you see reincarnation as literal truth or powerful symbolism. At its core, it's about becoming the person who remembers: someone who chooses self-respect, sacred love, inner authority, and a mission lived in ordinary days.",
+    topics: [
+      "How to tell intuition from fear voice — and why that changes everything",
+      "The truth about soulmates, karmic partners, and love that evolves you",
+      "Soul contracts, karmic loops, and synchronicities on your path",
+      "Safe principles for regression and shadow work without re-traumatizing",
+      "Forgiveness as energetic freedom — without excusing harm",
+      "Soul retrieval and integration: becoming whole again",
+    ],
+    forYouIf: [
+      "You feel there is more to your story than one lifetime",
+      "You experience repeating patterns in relationships that feel fated",
+      "You want to explore past-life material safely and grounded",
+      "You are ready to stop repeating the same lessons and live from your soul's truth",
+    ],
+  },
 ];
 
 export default function BooksPage() {
