@@ -780,6 +780,31 @@ const BOOKS = [
       "You are ready for vibration as a lifestyle — not a temporary phase",
     ],
   },
+  {
+    title: "Meditation for the Soul: Spiritual Techniques for Calm, Clarity, and Protection",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/61eJoImozhL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GK5NZ1SN",
+    kindleUrl: "https://www.amazon.com/dp/B0GK1785SF",
+    tag: "Meditation & Spiritual Protection",
+    badge: "Available Now",
+    shortDesc: "A grounded, practical spiritual guide for anyone who wants real calm, real clarity, and real energetic protection — without fear, fluff, or complicated rituals.",
+    longDesc: "Meditation for the Soul gives you simple techniques that work with your nervous system and your spirit: how to release anxiety without forcing positivity, heal emotional weight without re-traumatizing yourself, and stop absorbing other people's energy. Organized as a clear 30-chapter journey with step-by-step meditations, protective practices, and a 30-day plan you can actually follow — whether you're a beginner or someone who has never found something that felt truly safe.",
+    topics: [
+      "Calm anxiety and stress with fast, body-based resets",
+      "Strengthen your aura and protect your energy without shutting down",
+      "Release heavy emotions gently — grief, anger, shame — without spiraling",
+      "Create peaceful sleep rituals and nighttime protection",
+      "Set spiritual boundaries and say no without guilt",
+      "Hear your inner voice clearly and test guidance with reality checks",
+    ],
+    forYouIf: [
+      "You are sensitive, empathic, overthinking, or spiritually open",
+      "You want to feel centered, protected, and guided from within",
+      "You have tried meditation before but never found something that felt truly safe",
+      "You want a practice that supports your life — not an escape from it",
+    ],
+  },
 ];
 
 export default function BooksPage() {
