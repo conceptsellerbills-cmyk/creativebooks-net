@@ -481,6 +481,30 @@ const BOOKS = [
       "You are ready to stop repeating the same lessons and live from your soul's truth",
     ],
   },
+  {
+    title: "Where Love Transcends All Worlds: Beyond Laws, Beyond Time, Beyond Fear",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71oQt7zXwfL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GFWRWP7C",
+    kindleUrl: "https://www.amazon.com/dp/B0G98MG66M",
+    tag: "Spiritual Sci-Fi Romance",
+    badge: "Available Now",
+    shortDesc: "Aeron was created to watch over worlds. Lyra only felt a part of her soul was missing. When their paths cross, reality begins to fracture — and the universe is forced to choose between law and love.",
+    longDesc: "Where Love Transcends All Worlds is a deeply emotional spiritual sci-fi romance about two souls who recognized each other beyond lives, beyond worlds, beyond forgetting — and who chose to love each other even when that love demanded total sacrifice. This is not a story about gods or saviors. It is the story of a love that could not be controlled, created, or erased — a love that transcends time, law, and fear itself.",
+    topics: [
+      "Love beyond time and across lifetimes",
+      "Soulmates who find each other beyond forgetting",
+      "Sacrifice and choice in the face of cosmic law",
+      "Destiny versus free will",
+      "A universe forced to choose between order and love",
+    ],
+    forYouIf: [
+      "You love spiritual sci-fi with deeply emotional romance",
+      "You believe in soulmates and love that transcends time",
+      "You are drawn to stories of sacrifice, cosmic connection, and free will",
+      "You want a love story that goes beyond the ordinary — into the eternal",
+    ],
+  },
 ];
 
 export default function BooksPage() {
