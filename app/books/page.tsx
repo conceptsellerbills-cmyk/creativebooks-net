@@ -605,6 +605,31 @@ const BOOKS = [
       "You are ready to trade comfort for depth and avoidance for engagement",
     ],
   },
+  {
+    title: "Manifestation Made Simple: A 21-Day Daily Practice to Shift Your Reality",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71vgGjaCJPL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GG76T3JK",
+    kindleUrl: "https://www.amazon.com/dp/B0GG53FH6R",
+    tag: "Manifestation & Daily Practice",
+    badge: "Available Now",
+    shortDesc: "Turns manifestation from a confusing spiritual concept into a practical daily practice that actually changes your life — in 21 focused days, through identity shifts, nervous system regulation, and small consistent actions.",
+    longDesc: "Manifestation Made Simple helps you stop living in constant waiting, overthinking, and checking for signs — and start building the internal stability that makes new outcomes possible. No forcing, no chasing, no fake positivity. Whether you're manifesting love, money, confidence, peace, or a fresh start, this book gives you a step-by-step structure you can repeat anytime. You don't just 'try manifestation' — you become the version of you who naturally receives what you're ready for.",
+    topics: [
+      "Define one clear outcome without obsession",
+      "Rewire your self-concept in everyday life",
+      "Detach without giving up — the 'I'm good either way' power",
+      "Stay steady when the outer world hasn't shifted yet",
+      "Heal old emotional patterns so the past stops controlling the future",
+      "Build a simple weekly system so manifestation becomes a lifestyle",
+    ],
+    forYouIf: [
+      "You are tired of doing everything right and still feeling stuck",
+      "You want manifestation explained practically — not mystically",
+      "You want a structured 21-day practice you can repeat anytime",
+      "You are ready to build the inner state your life can finally mirror",
+    ],
+  },
 ];
 
 export default function BooksPage() {
