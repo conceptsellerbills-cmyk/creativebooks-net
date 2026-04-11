@@ -406,6 +406,31 @@ const BOOKS = [
       "You are ready to stop fighting life and start understanding it",
     ],
   },
+  {
+    title: "Make Money Smarter with AI Tools: How to Turn Artificial Intelligence into Sustainable Revenue",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71BxeaXvqeL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GFWRJNDM",
+    kindleUrl: "https://www.amazon.com/dp/B0G9979ZCS",
+    tag: "AI & Online Income",
+    badge: "Available Now",
+    shortDesc: "AI didn't just change technology — it changed who can win. You no longer need a big team, technical skills, or years of experience to build income online. You need clarity, structure, and the right way to use AI.",
+    longDesc: "Make Money Smarter with AI Tools is not about getting rich overnight. It's about building income that actually lasts. Instead of overwhelming you with jargon, this book shows how real people use AI to make money, how to build systems instead of hustling endlessly, and how to protect your income from platforms and trends. Everything is explained clearly, practically, and step by step. Read it once. Build with it for years.",
+    topics: [
+      "How to make money with AI using text, images, and video",
+      "How to build recurring monthly income instead of one-time sales",
+      "How to attract clients consistently using AI-powered lead systems",
+      "How to build an ecosystem of income, not a fragile side hustle",
+      "How to stay independent from platforms and algorithm changes",
+      "What will change in the next few years — and how to stay ahead",
+    ],
+    forYouIf: [
+      "You want real, practical ways to make money with AI — no hype",
+      "You want income that is stable, scalable, and protected",
+      "You prefer systems over stress",
+      "You don't need to be technical, famous, or work nonstop — just structured",
+    ],
+  },
 ];
 
 export default function BooksPage() {
