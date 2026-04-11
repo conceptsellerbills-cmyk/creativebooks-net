@@ -930,6 +930,31 @@ const BOOKS = [
       "You want the night to become a doorway to clarity — not chaos",
     ],
   },
+  {
+    title: "The Last Cigarette: A Calm, Proven Path to Quit Smoking, Crush Cravings, and Stay Smoke-Free",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/61L5X2XnB5L._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GHYHHGPT",
+    kindleUrl: "https://www.amazon.com/dp/B0GHY7GXL7",
+    tag: "Quit Smoking & Habit Change",
+    badge: "Available Now",
+    shortDesc: "Tired of promising 'this is my last cigarette' and then bargaining your way back? A practical, psychology-based system to quit smoking without living in a constant fight with yourself.",
+    longDesc: "The Last Cigarette gives you a clear structure that lowers cravings, rewires triggers, and makes staying smoke-free feel normal — without relying on motivation or being strong. Whether you've tried quitting before or you're starting today, this book provides a calm plan you can actually follow day by day. You don't need more willpower. You need a system. Build the last quit you'll ever need.",
+    topics: [
+      "Break the cue–craving–response loop so urges stop feeling urgent",
+      "Set a quit date the smart way and remove 'just one more' loopholes",
+      "Fast, real-life craving killers in 3 minutes or less",
+      "Handle stress, anxiety, coffee, alcohol, and social pressure without relapse",
+      "Deal with slips without shame spirals or starting over",
+      "Build identity-based quitting — 'I don't smoke' — so you stop negotiating",
+    ],
+    forYouIf: [
+      "You have tried quitting before and keep going back",
+      "You want a calm, structured plan — not a willpower battle",
+      "You are ready to make smoking no longer fit your identity",
+      "You want a 30-day system that protects you long-term",
+    ],
+  },
 ];
 
 export default function BooksPage() {
