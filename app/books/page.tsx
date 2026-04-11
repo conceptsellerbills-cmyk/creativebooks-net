@@ -381,6 +381,31 @@ const BOOKS = [
       "You want clarity — not another surface-level dating guide",
     ],
   },
+  {
+    title: "The Universe Is Always Listening: A Spiritual Guide to Trust, Flow, and Inner Awareness",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71qO49UU4BL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GD1Y76BM",
+    kindleUrl: "https://www.amazon.com/dp/B0GBLM2NR1",
+    tag: "Spirituality & Inner Alignment",
+    badge: "Available Now",
+    shortDesc: "What if the Universe has been listening to you all along — just not in the way you expected? Not a book about manifesting what you want, but about understanding why your life has unfolded exactly as it has.",
+    longDesc: "The Universe Is Always Listening reveals how the Universe communicates through emotions, delays, relationships, loss, silence, and intuition — and the moments that change you forever. Unlike typical spiritual books, this one does not teach you how to escape reality. It teaches you how to live inside it with awareness, strength, and calm clarity. No dogma. No superstition. No pretending everything is positive. Only truth, presence, and alignment.",
+    topics: [
+      "Why certain patterns keep repeating in your life",
+      "Why loss, endings, and delays are often guidance — not punishment",
+      "How to tell the difference between fear and intuition",
+      "Why forcing life creates suffering — and flow creates clarity",
+      "How to live in alignment without losing ambition or responsibility",
+      "Why peace comes not from getting more — but from resisting less",
+    ],
+    forYouIf: [
+      "You feel stuck despite trying everything",
+      "You sense there's a deeper intelligence guiding your life",
+      "You want spirituality without illusion, escapism, or blind belief",
+      "You are ready to stop fighting life and start understanding it",
+    ],
+  },
 ];
 
 export default function BooksPage() {
