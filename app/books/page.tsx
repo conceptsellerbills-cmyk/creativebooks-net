@@ -805,6 +805,31 @@ const BOOKS = [
       "You want a practice that supports your life — not an escape from it",
     ],
   },
+  {
+    title: "Stop Repeating the Same Lesson: A Spiritual Guide to Breaking Cycles, Healing Patterns, and Choosing a New Timeline",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71D6cUhi+GL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GK27LS8J",
+    kindleUrl: "https://www.amazon.com/dp/B0GJZBQVFP",
+    tag: "Breaking Patterns & New Timelines",
+    badge: "Available Now",
+    shortDesc: "Why do you keep meeting the same situation in a different form? If you're tired of repeating the same lesson, this book is your turning point — breaking patterns at the level that actually creates them.",
+    longDesc: "Stop Repeating the Same Lesson is a grounded spiritual guide for the person who has done the insight work — but still finds themselves pulled back into old dynamics when loneliness, fear, guilt, or hope hits. This is not a 'think positive' promise. It's a practical path to rebuild self-trust, rewrite the earn-love program, and manifest a new life without recreating the old self inside it.",
+    topics: [
+      "Why patterns repeat and how familiar pain becomes addictive",
+      "How core wounds become reality filters — and how to change them",
+      "Boundaries as sacred technology: clean no without guilt or anger",
+      "Emotional alchemy: turning anger into clarity and sadness into soft power",
+      "Rituals that lock in change and close old chapters for good",
+      "A 30-day integration plan to make your new identity permanent",
+    ],
+    forYouIf: [
+      "You keep meeting the same situation in a different form",
+      "You have done the insight work but still get pulled back into old dynamics",
+      "You want to stop going back and stop bargaining with your worth",
+      "You are ready to graduate from the lesson and step into a new timeline",
+    ],
+  },
 ];
 
 export default function BooksPage() {
