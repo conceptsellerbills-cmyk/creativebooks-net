@@ -431,6 +431,31 @@ const BOOKS = [
       "You don't need to be technical, famous, or work nonstop — just structured",
     ],
   },
+  {
+    title: "Beyond the Body: Journeys into the Astral Realm",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71R1X8HHgOL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GHJRT9D8",
+    kindleUrl: "https://www.amazon.com/dp/B0GHHXGCLL",
+    tag: "Astral Projection & OBE",
+    badge: "Available Now",
+    shortDesc: "What if the reason you haven't had an out-of-body experience yet isn't that you 'can't' — but that no one taught you a calm, safe, realistic way to approach it?",
+    longDesc: "Beyond the Body is a grounded spiritual guide to astral projection, written for seekers who are curious, skeptical, or frustrated. Instead of sensational stories and fear-based warnings, it offers a clear map of what people report, why the threshold can feel intense, and how to build a practice that protects your nervous system, your sleep, and your mental clarity. Whether you see astral projection as a spiritual reality, an inner world, or something in between, this book helps you approach the unknown with calm authority.",
+    topics: [
+      "How fear and overthinking block the doorway — and how to dissolve them",
+      "Doorway signs: vibrations, buzzing, floating, sleep paralysis, false awakenings",
+      "Practical spiritual hygiene that is empowering, not paranoid",
+      "Discernment skills: truth vs symbol, guidance vs projection",
+      "A realistic 30-day training plan without obsession",
+      "How to integrate experiences so spirituality strengthens your life",
+    ],
+    forYouIf: [
+      "You are curious about astral projection but have struggled to experience it",
+      "You want a grounded, safe approach — not sensationalism or fear",
+      "You seek clarity, discernment, and a mature spiritual practice",
+      "You want OBE exploration to ground you, not pull you away from life",
+    ],
+  },
 ];
 
 export default function BooksPage() {
