@@ -530,6 +530,31 @@ const BOOKS = [
       "You are ready to feel more grounded, open, confident, and connected",
     ],
   },
+  {
+    title: "The Art of Living Slowly: A Guide to Reclaiming Time, Presence, and Inner Peace",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/61lLhFjb+CL._SL1499_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GG77R8DV",
+    kindleUrl: "https://www.amazon.com/dp/B0GG4FM4FR",
+    tag: "Slow Living & Presence",
+    badge: "Available Now",
+    shortDesc: "Modern life moves faster than our minds, bodies, and emotions were ever designed to handle. This book is an invitation to step out of constant urgency — without stepping away from life.",
+    longDesc: "The Art of Living Slowly explores how speed reshapes the nervous system, fragments attention, and quietly drains meaning from everyday life. It reveals why slowing down feels uncomfortable at first — and why that discomfort is a sign of healing. This is not about doing less or rejecting ambition. It is about living at a pace that allows you to feel present, grounded, and fully alive — slowly, deliberately, and with meaning.",
+    topics: [
+      "Calm an overstimulated mind in a world that never stops",
+      "Release productivity guilt and hustle culture conditioning",
+      "Reclaim attention from constant distraction",
+      "Create a pace you can sustain without burnout",
+      "Deepen relationships through presence rather than urgency",
+      "Build a life that feels inhabitable instead of overwhelming",
+    ],
+    forYouIf: [
+      "You feel tired of rushing and overwhelmed by constant demands",
+      "You are disconnected from your own time and energy",
+      "You want to reclaim presence, depth, and meaning in daily life",
+      "You are ready for a steady, compassionate path — not a quick fix",
+    ],
+  },
 ];
 
 export default function BooksPage() {
