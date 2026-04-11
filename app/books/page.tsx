@@ -630,6 +630,31 @@ const BOOKS = [
       "You are ready to build the inner state your life can finally mirror",
     ],
   },
+  {
+    title: "Conscious Parenting, Sacred Childhood: From Chaos to Culture, Create Family Values That Children Actually Live",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71TcI7tx0RL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GKY7ZF1F",
+    kindleUrl: "https://www.amazon.com/dp/B0GJR28RWD",
+    tag: "Conscious Parenting & Family",
+    badge: "Available Now",
+    shortDesc: "Not another book that tells you how to 'manage' your child. A grounded, spiritual-yet-practical guide to raising emotionally free humans by healing the patterns quietly passed down in families.",
+    longDesc: "Conscious Parenting, Sacred Childhood helps you become the calm authority your child can trust — without losing warmth. You'll discover why your nervous system is the real classroom, how to repair after conflict, and how to build a family culture where honesty is safe and emotions don't become chaos. Weaving conscious communication, nervous system regulation, spiritual values, and practical routines — so you can stop reacting from survival mode and start parenting from presence.",
+    topics: [
+      "Break generational cycles without breaking yourself",
+      "Hold boundaries as love — without threats, guilt, or shame",
+      "Turn triggers into healing and reaction into leadership",
+      "Raise children with strong self-worth, emotional literacy, and resilience",
+      "Protect attention and energy in a screen-saturated culture",
+      "Guide kids through divorce, loss, moving, and big life changes safely",
+    ],
+    forYouIf: [
+      "You've promised yourself 'I won't parent like that' — and heard old words come out anyway",
+      "Your child's behavior triggers parts of you that feel bigger than the moment",
+      "You want boundaries without threats and discipline without shame",
+      "You are ready to reparent yourself while you parent your child",
+    ],
+  },
 ];
 
 export default function BooksPage() {
