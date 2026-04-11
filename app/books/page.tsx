@@ -1155,6 +1155,31 @@ const BOOKS = [
       "You are ready to step into your real presence and keep it — no matter who's watching",
     ],
   },
+  {
+    title: "Don't Beg for Love: High-Self-Respect Dating and Relationship Rules",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/61rJdI6wzAL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GH6QMW9M",
+    kindleUrl: "https://www.amazon.com/dp/B0GH1QRDBC",
+    tag: "Self-Respect & Dating",
+    badge: "Available Now",
+    shortDesc: "The no-games guide to dating and relationships built on one core truth: you should never have to shrink, chase, or negotiate your dignity to be chosen.",
+    longDesc: "Don't Beg for Love shows you how to shift from 'prove yourself' to evaluate with calm confidence — so you stop falling for mixed signals, breadcrumb attention, and hot-cold chemistry that turns into anxiety. You'll build clear standards for texting, dates, intimacy, and commitment, and master boundaries that actually work. For anyone done performing, done competing, and done accepting crumbs. It's time for love that chooses you back.",
+    topics: [
+      "Stop chasing and start choosing with clarity",
+      "Recognize real interest vs. convenient attention",
+      "Set boundaries that earn respect — and keep it",
+      "Avoid situationships, mixed signals, and emotional unavailability",
+      "Handle conflict without losing yourself",
+      "Rebuild after heartbreak and choose better — fast",
+    ],
+    forYouIf: [
+      "You are tired of chasing, over-giving, and accepting crumbs in relationships",
+      "You want love that feels peaceful, loyal, consistent, and mutual",
+      "You want boundaries that earn respect without drama or control",
+      "You are ready for love that chooses you back — not one you have to beg for",
+    ],
+  },
 ];
 
 export default function BooksPage() {
