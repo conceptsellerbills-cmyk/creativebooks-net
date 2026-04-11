@@ -1229,6 +1229,31 @@ const BOOKS = [
       "You are ready to stop repeating old patterns and create love that feels both sacred and real",
     ],
   },
+  {
+    title: "The Art of Receiving: Money, Self-Worth, and Spiritual Wealth",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71k7OvVdajL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GH1TKJ9T",
+    kindleUrl: "https://www.amazon.com/dp/B0GGBZLZBJ",
+    tag: "Abundance & Self-Worth",
+    badge: "Available Now",
+    shortDesc: "Not a book about getting rich fast. A guide to becoming the kind of person who can receive — without guilt, panic, overgiving, or self-sabotage.",
+    longDesc: "The Art of Receiving shows what's really happening beneath the surface when money feels hard to keep. Receiving isn't only a mindset — it's a nervous system skill. It's safety in the body. It's the difference between manifesting short bursts of income and building stable, clean wealth that actually feels good. This book unangles shame from money, heals scarcity identity, and creates daily practices that turn abundance into a normal baseline.",
+    topics: [
+      "Why your body may reject abundance even when your mind wants it",
+      "How shame, loyalty, and attachment patterns shape your money behavior",
+      "The difference between clean receiving and self-betrayal",
+      "Conscious spending and saving as self-trust",
+      "Pricing, boundaries, and wealth built through service",
+      "Receiving rituals that integrate abundance into everyday life",
+    ],
+    forYouIf: [
+      "You undercharge, say yes too often, or feel unworthy when things start going well",
+      "You've done affirmations and stayed positive — and still feel stuck",
+      "You want to build a container that holds more: money, visibility, peace",
+      "You are ready to stop surviving and start receiving — calmly, cleanly, confidently",
+    ],
+  },
 ];
 
 export default function BooksPage() {
