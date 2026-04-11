@@ -680,6 +680,31 @@ const BOOKS = [
       "You are ready to raise free humans and end the old story",
     ],
   },
+  {
+    title: "Aligned by the Cosmos: A Practical Spiritual Path Using Astrology, Numerology, and Inner Guidance",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71Z69Pigx4L._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GKMXDQYB",
+    kindleUrl: "https://www.amazon.com/dp/B0GJG16HZ9",
+    tag: "Astrology & Numerology",
+    badge: "Available Now",
+    shortDesc: "What if nothing about you is random — your patterns, your relationships, your timing, even the coincidences that keep repeating? Learn to combine astrology and numerology as a map for clarity, healing, and aligned action.",
+    longDesc: "Aligned by the Cosmos teaches you to read your Big Three (Sun, Moon, Rising), houses, aspects, and transits — then connect it all with numerology's core frequencies like your Life Path and personal timing cycles. No superstition, no fear, no labels. This is a mature, empowering approach that blends spiritual insight with real-life psychology. Become the author of your life — using the map, not obeying it.",
+    topics: [
+      "Understand your personal cosmic blueprint without getting trapped in labels",
+      "Decode repeating life patterns and turn triggers into growth",
+      "Use Personal Year/Month/Day timing to plan, launch, heal, and build",
+      "Read major transits (Saturn, Jupiter, Uranus, Pluto) as life chapters — not doom",
+      "Navigate retrogrades and eclipse seasons with clarity and calm",
+      "Choose relationships based on real compatibility and emotional safety",
+    ],
+    forYouIf: [
+      "You are tired of vague manifestation advice and want a mature spiritual approach",
+      "You want to understand your patterns in love, money, and identity",
+      "You are ready to use astrology and numerology as tools — not as fate",
+      "You want to stop repeating the same lessons and live with direction",
+    ],
+  },
 ];
 
 export default function BooksPage() {
