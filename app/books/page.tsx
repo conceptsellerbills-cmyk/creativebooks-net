@@ -830,6 +830,31 @@ const BOOKS = [
       "You are ready to graduate from the lesson and step into a new timeline",
     ],
   },
+  {
+    title: "The Third Eye Within: A Practical Spiritual Guide to the Pineal Gland",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71Gp4p65fuL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GJQF53JZ",
+    kindleUrl: "https://www.amazon.com/dp/B0GJN7CXK2",
+    tag: "Third Eye & Pineal Gland",
+    badge: "Available Now",
+    shortDesc: "What if the third eye wasn't a myth — but a practical path to clearer perception, deeper sleep, and a calmer mind? A grounded guide to the pineal gland without jargon, fear, or obsession.",
+    longDesc: "The Third Eye Within explores what science actually says about the pineal gland and melatonin, and how ancient traditions (Ajna, meditation, prayer, dreamwork) can be practiced in a way that keeps you stable, discerning, and connected to real life. For anyone curious about intuition and spiritual perception — but wanting a balanced approach that strengthens inner authority instead of creating paranoia.",
+    topics: [
+      "The pineal gland basics — sleep timing, melatonin, rhythm, and mood",
+      "Why third eye work can trigger pressure or tingling — and when to slow down",
+      "Dream journaling, lucid doorways, and inner-temple visualization",
+      "Discernment skills for separating truth, symbol, and projection",
+      "Psychic boundaries and energetic hygiene that protect your peace",
+      "A realistic 30-day practice plan without obsession",
+    ],
+    forYouIf: [
+      "You are curious about the pineal gland, intuition, and spiritual perception",
+      "You feel overwhelmed by third-eye culture — too many claims, too little stability",
+      "You want a balanced approach that keeps you sane and grounded",
+      "You are ready for the pineal path as it's meant to be: calm, ethical, and life-changing",
+    ],
+  },
 ];
 
 export default function BooksPage() {
