@@ -980,6 +980,31 @@ const BOOKS = [
       "You are ready for love with integrity — measured in behavior, not promises",
     ],
   },
+  {
+    title: "Waking Up Inside the Matrix: A Spiritual Consciousness Guide to Seeing Through Illusion",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/81LgBWEHl2L._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GHP9GMKX",
+    kindleUrl: "https://www.amazon.com/dp/B0GHN9L4RF",
+    tag: "Consciousness & Inner Sovereignty",
+    badge: "Available Now",
+    shortDesc: "A grounded, practical guide for people who feel awake — and want to stay clear, calm, and powerful without falling into fear, superiority, or obsession.",
+    longDesc: "Waking Up Inside the Matrix explores how identity programming, emotional control loops, group trance, and authority spells shape perception — and how to reclaim your mind without becoming cynical or paranoid. Instead of preaching or forcing beliefs, this book shows a mature path: inner sovereignty, clean boundaries, shadow integration, and ethical influence. Real awakening spreads through seeds, not speeches.",
+    topics: [
+      "How programming actually works — identity, emotion, crowd influence — and how to rewrite it",
+      "Discernment tools to separate truth from fear and intuition from anxiety",
+      "Practical energy hygiene: boundaries, nervous system mastery, emotional sovereignty",
+      "Communication skills to open minds without arguing or humiliating",
+      "Service over theory, ethical influence, and community without cult dynamics",
+      "Daily life as spiritual training in work, money, love, and time",
+    ],
+    forYouIf: [
+      "You feel awake but want to stay grounded — not paranoid or superior",
+      "You want to stop reacting, absorbing others' emotions, and outsourcing your power",
+      "You seek inner sovereignty and peace that doesn't depend on circumstances",
+      "You want awakening that improves real life — not just beliefs",
+    ],
+  },
 ];
 
 export default function BooksPage() {
