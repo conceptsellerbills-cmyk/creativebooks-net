@@ -880,6 +880,31 @@ const BOOKS = [
       "You are ready to stop wishing and start building your next level",
     ],
   },
+  {
+    title: "Indigo Children: The Complete Guide to Indigo Types, Traits, Gifts, Challenges, and Conscious Parenting",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/7139IdIHjDL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GJPYB492",
+    kindleUrl: "https://www.amazon.com/dp/B0GJDZ39HS",
+    tag: "Indigo Children & Conscious Parenting",
+    badge: "Available Now",
+    shortDesc: "If your child is intensely sensitive, fiercely independent, and allergic to pointless rules — this grounded spiritual guide helps you understand the Indigo child without hype, fear, or labels that pressure your kid.",
+    longDesc: "Indigo Children helps you understand the main Indigo types (Humanist, Conceptual, Artist, Interdimensional, and Warrior/Catalyst) and how to parent them in a way that protects their nervous system, builds self-trust, and keeps your home calm. Blending spiritual insight with real-life parenting tools — so you can honor your child's depth while keeping everything practical, safe, and doable.",
+    topics: [
+      "Recognize your child's Indigo type and the gifts and challenges that come with it",
+      "Support sensitivity without feeding fear, anxiety, or special identity traps",
+      "Handle strong will and defiance with firm warmth — boundaries that don't break them",
+      "Reduce bedtime anxiety, vivid dreams, and nighttime sensitivity",
+      "Advocate at school with practical scripts and accommodations that work",
+      "Build confidence through competence, responsibility, and real-world skills",
+    ],
+    forYouIf: [
+      "Your child is strong-willed, truth-driven, emotionally intense, and deeply sensitive",
+      "Every boundary turns into a power struggle and you don't know why",
+      "You want to honor your child's depth without losing your sanity",
+      "You are ready to stop fighting your child's intensity and start guiding it into strength",
+    ],
+  },
 ];
 
 export default function BooksPage() {
