@@ -580,6 +580,31 @@ const BOOKS = [
       "You want presence, safety, meaning, and self-connection — not another checklist",
     ],
   },
+  {
+    title: "Comfort Is the New Prison: Why Safety, Convenience, and Routine Are Quietly Killing Your Potential",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71ojTAX4jSL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GG4R5X1R",
+    kindleUrl: "https://www.amazon.com/dp/B0GFXNTWKS",
+    tag: "Growth & Breaking Stagnation",
+    badge: "Available Now",
+    shortDesc: "What if the very thing you've been chasing — comfort, stability, safety — is the reason you feel stuck, anxious, and unfulfilled? A deep, honest exploration of how modern comfort quietly disconnects us from ambition and meaning.",
+    longDesc: "Comfort Is the New Prison exposes the hidden cost of a life built around ease. It reveals why so many people feel restless despite having everything, why anxiety thrives in safe environments, and why avoiding discomfort quietly erodes self-trust and courage. You won't be told to eliminate fear — you'll learn how to move with it. You won't be promised ease — you'll be shown how to build a life that no longer shrinks.",
+    topics: [
+      "How comfort turns into stagnation over time",
+      "Why anxiety thrives in safe, controlled environments",
+      "How fear disguises itself as responsibility and caution",
+      "Why waiting for certainty keeps life on pause",
+      "How to rebuild resilience and direction without burning your life down",
+      "How to use discomfort as information, strength, and fuel for growth",
+    ],
+    forYouIf: [
+      "You feel awake but stuck — restless despite having a stable life",
+      "You sense there is more to life than routines, distractions, and managed survival",
+      "You are tired of feeling safe but unsatisfied",
+      "You are ready to trade comfort for depth and avoidance for engagement",
+    ],
+  },
 ];
 
 export default function BooksPage() {
