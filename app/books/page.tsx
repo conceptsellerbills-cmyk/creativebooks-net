@@ -505,6 +505,31 @@ const BOOKS = [
       "You want a love story that goes beyond the ordinary — into the eternal",
     ],
   },
+  {
+    title: "Chakras for Beginners: Balance, Healing, and Daily Alignment",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/61uxpEw5IWL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GG7LSGKC",
+    kindleUrl: "https://www.amazon.com/dp/B0GG5D7HMM",
+    tag: "Chakras & Energy Healing",
+    badge: "Available Now",
+    shortDesc: "A grounded, practical guide to working with your energy system — without confusion, overwhelm, or woo you don't relate to. A simple map back to stability, clarity, and inner peace.",
+    longDesc: "Chakras for Beginners connects chakra work to real life: your nervous system, habits, boundaries, confidence, relationships, creativity, and decision-making. Each chapter is designed to help you feel the shift — through breathwork, simple meditation, gentle movement, journaling prompts, and quick energy hygiene practices you can use in minutes. This is chakra work made safe and usable for beginners, with trauma-informed guidance and a 30-day alignment routine you can repeat anytime.",
+    topics: [
+      "What chakras are (and what they aren't), explained simply and practically",
+      "How emotions, attention, and habits shape your field and everyday experience",
+      "Root-to-crown healing tools you can do even on busy days",
+      "Breathwork, meditation, and movement practices for real balance",
+      "Energy hygiene and boundaries to stop emotional leaks and protect your peace",
+      "A personalized 7-day reset and 30-day alignment routine",
+    ],
+    forYouIf: [
+      "You feel anxious, emotionally stuck, mentally noisy, or drained by people",
+      "You are brand new to chakras and want a clear, safe starting point",
+      "You want spiritual practices that actually translate into real life",
+      "You are ready to feel more grounded, open, confident, and connected",
+    ],
+  },
 ];
 
 export default function BooksPage() {
