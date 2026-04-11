@@ -855,6 +855,31 @@ const BOOKS = [
       "You are ready for the pineal path as it's meant to be: calm, ethical, and life-changing",
     ],
   },
+  {
+    title: "The Manifestation Mindset: A Practical Guide to Rewiring Beliefs, Raising Standards, and Becoming the Person Who Receives",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/711VBmDRFDL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GJPXVQX9",
+    kindleUrl: "https://www.amazon.com/dp/B0GJNSK3X8",
+    tag: "Manifestation & Identity Shift",
+    badge: "Available Now",
+    shortDesc: "What if manifestation wasn't magic — but a skill you can train? A grounded, modern guide to creating real results without toxic positivity, obsession, or woo.",
+    longDesc: "The Manifestation Mindset shows how manifestation actually works in daily life: through identity, nervous system regulation, self-worth, clarity, and consistent action. Stop chasing outcomes and start becoming the kind of person who naturally attracts — and holds — what they desire. Build faith through proof loops that make confidence real. This isn't a fantasy book. It's a practical blueprint for people who want to feel powerful, calm, and consistent.",
+    topics: [
+      "Reprogram beliefs and upgrade self-image without forcing fake confidence",
+      "Use emotions as information and regulate your nervous system fast",
+      "Turn doubt and fear into forward movement instead of stop signs",
+      "Manifest money, love, health, and opportunities with stronger standards",
+      "Stay consistent through delays, setbacks, and nothing-is-happening phases",
+      "Build your personal manifestation system for lasting results",
+    ],
+    forYouIf: [
+      "You are tired of manifestation advice that doesn't translate into real life",
+      "You want to stop chasing and start becoming the person who receives",
+      "You want confidence built through proof — not forced positivity",
+      "You are ready to stop wishing and start building your next level",
+    ],
+  },
 ];
 
 export default function BooksPage() {
