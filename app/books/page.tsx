@@ -905,6 +905,31 @@ const BOOKS = [
       "You are ready to stop fighting your child's intensity and start guiding it into strength",
     ],
   },
+  {
+    title: "The Dream Gate: Nightly Astral Travel, Lucid Dreaming, and the Pineal Gland",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71827abg7vL._SL1499_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GJFC77PW",
+    kindleUrl: "https://www.amazon.com/dp/B0GJ6QF58T",
+    tag: "Lucid Dreaming & Astral Exploration",
+    badge: "Available Now",
+    shortDesc: "What if your dreams aren't just dreams? A grounded, step-by-step guide to lucid dreaming and astral-style exploration — without fear-mongering, magical claims, or unstable woo.",
+    longDesc: "The Dream Gate blends spiritual curiosity with practical psychology and sleep hygiene. You'll discover how evening light and screen habits flatten dreams, how to protect your melatonin rhythm naturally, and why the safest pineal upgrade is simple: darkness, consistency, and a regulated nervous system. From reality checks that don't fail to a 30-night training plan, you'll build real skill — dream recall, stabilization, clear intention, and emotional control.",
+    topics: [
+      "Remember dreams consistently — even if you think you never dream",
+      "Trigger lucidity using your personal dream signs",
+      "Use hypnagogia and sleep paralysis as a safe launchpad",
+      "Stabilize scenes and extend lucid time without waking up",
+      "Work with the Void and 'realer than real' states calmly",
+      "Design ethical night intentions and integrate insights into daily life",
+    ],
+    forYouIf: [
+      "You want vivid dreams, reliable lucidity, or emotional healing through the dream state",
+      "You are curious about astral exploration but want a stable, grounded approach",
+      "You struggle to remember dreams or maintain awareness once lucid",
+      "You want the night to become a doorway to clarity — not chaos",
+    ],
+  },
 ];
 
 export default function BooksPage() {
