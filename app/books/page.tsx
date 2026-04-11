@@ -1005,6 +1005,31 @@ const BOOKS = [
       "You want awakening that improves real life — not just beliefs",
     ],
   },
+  {
+    title: "The Red Flag Rulebook: Dating Patterns That Destroy Love (and How to Avoid Them)",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71Fu2h571ZL._SL1499_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GHJLL6DF",
+    kindleUrl: "https://www.amazon.com/dp/B0GH1L9QCC",
+    tag: "Dating & Relationship Red Flags",
+    badge: "Available Now",
+    shortDesc: "Your no-excuses guide to spotting the dating patterns that quietly destroy love — before you waste months trying to fix someone who isn't safe to build with.",
+    longDesc: "The Red Flag Rulebook breaks down how red flags actually show up in real life: love-bombing that feels like fate, hot-and-cold behavior that keeps you addicted, micro-cheating, boundary erosion, victim stories, disguised disrespect, and guilt-based manipulation. Each chapter explains what the pattern looks like, why it hooks you, and the exact mindset shifts to step out of the loop. Plus: a green-flag blueprint for choosing healthy, committed love.",
+    topics: [
+      "Love-bombing, hot-and-cold behavior, and why they feel so addictive",
+      "Micro-cheating, boundary erosion, and control framed as standards",
+      "Victim stories, blame-shifting, and guilt-based manipulation",
+      "What healthy love looks like in practice: consistency over chemistry",
+      "Clear boundaries without fights and repair over drama",
+      "Green-flag behaviors your nervous system can finally relax into",
+    ],
+    forYouIf: [
+      "You are tired of confusion, mixed signals, and relationships that cost your peace",
+      "You want clear red flags explained with real examples — not vague theory",
+      "You want strong boundaries and self-respect without becoming cold or cynical",
+      "You are ready to choose partners who show love through integrity — not promises",
+    ],
+  },
 ];
 
 export default function BooksPage() {
