@@ -1180,6 +1180,30 @@ const BOOKS = [
       "You are ready for love that chooses you back — not one you have to beg for",
     ],
   },
+  {
+    title: "Mega Fun Coloring Book for Kids & Teens: A Huge Collection of Over 400 Cute Animals, Cars, Fruits, Toys and Everyday Objects to Color and Enjoy!",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/81JmnokU-QL._SL1500_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GDXWGTN2",
+    kindleUrl: "",
+    tag: "Kids & Teens Coloring",
+    badge: "Available Now",
+    shortDesc: "One of the biggest and most exciting coloring books ever created for kids and teens — packed with over 400 adorable and creative designs that will keep children entertained for hours.",
+    longDesc: "Mega Fun Coloring Book features cute animals, cars and vehicles, fruits and food, toys, characters, and fun scenes. Every page is designed to be simple, bold, and easy to color — perfect for both beginners and confident young artists. Great for creativity, focus, and relaxation. Perfect for ages 4–14 and makes a wonderful gift for birthdays, school breaks, travel, and holidays.",
+    topics: [
+      "Over 400 unique coloring elements — animals, cars, fruits, toys, and more",
+      "Large, easy-to-color cartoon-style illustrations",
+      "Cute, friendly, and positive designs for boys and girls",
+      "Perfect for creativity, focus, and relaxation",
+      "Great for home, school breaks, travel, and holidays",
+    ],
+    forYouIf: [
+      "You want a massive, fun coloring book for a child aged 4–14",
+      "You are looking for a thoughtful birthday or holiday gift for kids",
+      "Your child loves animals, cars, food, or creative cartoon scenes",
+      "You want hours of creative entertainment that supports focus and calm",
+    ],
+  },
 ];
 
 export default function BooksPage() {
@@ -1448,9 +1472,11 @@ export default function BooksPage() {
                 <a href={book.paperbackUrl} target="_blank" rel="noopener noreferrer" className="buy-btn">
                   📦 Buy Paperback
                 </a>
-                <a href={book.kindleUrl} target="_blank" rel="noopener noreferrer" className="kindle-btn">
-                  📱 Kindle Edition
-                </a>
+                {book.kindleUrl && (
+                  <a href={book.kindleUrl} target="_blank" rel="noopener noreferrer" className="kindle-btn">
+                    📱 Kindle Edition
+                  </a>
+                )}
               </div>
               <p className="buy-note">Both versions available on Amazon</p>
             </div>
