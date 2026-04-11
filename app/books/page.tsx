@@ -655,6 +655,31 @@ const BOOKS = [
       "You are ready to reparent yourself while you parent your child",
     ],
   },
+  {
+    title: "The Parent Who Heals The Line: Spiritual Parenting to Break Generational Cycles, End Inherited Trauma, and Raise Emotionally Free Children",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/713AGIlAh+L._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GKPQR77Z",
+    kindleUrl: "https://www.amazon.com/dp/B0GKP12KWX",
+    tag: "Generational Healing & Parenting",
+    badge: "Available Now",
+    shortDesc: "What if the greatest gift you could give your child isn't success or perfect behavior — but a childhood they don't need to heal from? A grounded, spiritual guide for parents who are done repeating the past.",
+    longDesc: "The Parent Who Heals The Line is for mothers and fathers who want to raise emotionally safe, confident children — without fear, humiliation, or control. If you grew up with criticism, silence, guilt, or emotional neglect, you don't need to carry that into your home. This is not gentle parenting as permissiveness. It's strong, loving leadership — where the adult stays grounded, the child stays dignified, and the home becomes a place where truth is safe.",
+    topics: [
+      "Set boundaries without threats or shame — and still be taken seriously",
+      "Discipline in a way that teaches, not breaks",
+      "Replace yelling and lectures with calm authority and repair",
+      "Help kids regulate big emotions and build emotional vocabulary",
+      "Teach consent and body safety so your child can say no without guilt",
+      "End scarcity and survival programming — teach abundance without entitlement",
+    ],
+    forYouIf: [
+      "You don't want your child to carry what you carried",
+      "You grew up with emotional neglect, criticism, or unpredictable anger",
+      "You want strong, loving leadership — not permissiveness or punishment",
+      "You are ready to raise free humans and end the old story",
+    ],
+  },
 ];
 
 export default function BooksPage() {
