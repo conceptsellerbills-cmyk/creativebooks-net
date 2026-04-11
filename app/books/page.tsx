@@ -331,6 +331,31 @@ const BOOKS = [
       "You want clarity, not comfort — and are ready to stop protecting your intelligence",
     ],
   },
+  {
+    title: "The Archangel's Choice: A Love Stronger Than Heaven",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71vV4hiYT6L._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GD23HDTJ",
+    kindleUrl: "https://www.amazon.com/dp/B0GBXLV5JD",
+    tag: "Angel Fantasy & Forbidden Romance",
+    badge: "Available Now",
+    shortDesc: "He was created to obey Heaven. She was never meant to matter. Some loves are powerful enough to break Heaven itself — and some choices cost an angel his wings.",
+    longDesc: "Elias is an archangel bound by ancient laws — a warrior forged for light, duty, and eternal discipline. Aria is human. Mortal. Fragile. And yet, her presence awakens something forbidden. As dark forces gather and divine laws tighten, Elias is forced to confront the one thing angels fear most: love that cannot be controlled. Loving her may cost him his wings. Protecting her may ignite a war. Because some bonds are strong enough to change what angels are allowed to become.",
+    topics: [
+      "Forbidden love that defies divine law",
+      "A human soul with hidden power",
+      "An archangel standing at the edge of falling",
+      "Loyalty tested by emotion",
+      "Destiny rewritten by choice",
+      "Dark forces, celestial intrigue, and high-stakes sacrifice",
+    ],
+    forYouIf: [
+      "You love angel & demon fantasy with emotionally intense romance",
+      "You are drawn to forbidden love stories set in supernatural worlds",
+      "You enjoy celestial intrigue and epic, high-stakes storytelling",
+      "You want a story that pulls you in — and refuses to let go",
+    ],
+  },
 ];
 
 export default function BooksPage() {
