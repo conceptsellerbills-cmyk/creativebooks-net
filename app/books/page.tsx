@@ -1030,6 +1030,31 @@ const BOOKS = [
       "You are ready to choose partners who show love through integrity — not promises",
     ],
   },
+  {
+    title: "The Two Sides of Sex: Physical Pleasure & Mental Intimacy",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/7158hAwclVL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GHKFWDNW",
+    kindleUrl: "https://www.amazon.com/dp/B0GHHWQ8KT",
+    tag: "Intimacy & Relationships",
+    badge: "Available Now",
+    shortDesc: "Sex isn't just a physical act. It's nervous system safety, self-worth, and trust. A practical, relationship-first guide to rebuilding desire without pressure, shame, or guesswork.",
+    longDesc: "The Two Sides of Sex helps couples stuck between two extremes: sex that's stimulating but emotionally empty, or love that's deep but sexually disconnected. This book brings both sides together — showing why libido changes, how performance anxiety hijacks the body, and how to build a sex life that feels easy, real, and sustainable. Includes a 30-day plan that fits busy modern life.",
+    topics: [
+      "How to talk about sex without blame — and get real answers",
+      "Why libido changes and what actually brings it back",
+      "The difference between stimulation and intimacy",
+      "How performance anxiety hijacks the body — and safety plans that help",
+      "Boundaries, consent, and trust repair that make sex feel safe again",
+      "Systems that keep sex alive long-term: rituals, check-ins, and real-life strategies",
+    ],
+    forYouIf: [
+      "You feel stuck between physical pleasure and emotional disconnection",
+      "You want more passion, more closeness, or simply a sex life that feels real again",
+      "You want to talk about intimacy without it turning into an argument",
+      "You are ready to build a sex life that lasts — without pressure or shame",
+    ],
+  },
 ];
 
 export default function BooksPage() {
