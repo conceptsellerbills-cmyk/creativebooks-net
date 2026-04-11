@@ -1105,6 +1105,31 @@ const BOOKS = [
       "You want a complete roadmap to make lucidity reliable — night after night",
     ],
   },
+  {
+    title: "The Business Development Playbook: How to Find Leads, Close Deals, Build Partnerships, and Scale a Small Business",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71eh-j4dw5L._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GH275D9P",
+    kindleUrl: "https://www.amazon.com/dp/B0GGYF78RX",
+    tag: "Business Growth & Sales",
+    badge: "Available Now",
+    shortDesc: "A practical, step-by-step guide for entrepreneurs and freelancers who want a repeatable system that consistently brings qualified leads and closes clients every week — in just 5–7 hours.",
+    longDesc: "The Business Development Playbook replaces hope marketing with a simple, consistent process. You'll learn how to clarify your offer, find the right prospects, start conversations through cold email and DMs without being salesy, and follow up in a way that gets replies. Then sharpen the skills that turn interest into revenue: discovery calls, objections, pricing, proposals, and calm closing. Plus: referral partnerships, affiliate structures, and a 90-day plan that makes growth predictable.",
+    topics: [
+      "Replace random pipeline with a 5–7 hour per week outreach system",
+      "Cold email and DM outreach that starts conversations without being salesy",
+      "Discovery calls, objections, pricing, proposals, and calm closing",
+      "Referral partnerships and revenue-share structures that protect your brand",
+      "Systems and metrics that make growth predictable without a complicated CRM",
+      "Hiring and delegation strategy to scale without burnout",
+    ],
+    forYouIf: [
+      "Your pipeline is busy one month and silent the next",
+      "You are an entrepreneur, freelancer, or service provider who wants consistent clients",
+      "You want a repeatable sales process you can run without feeling salesy",
+      "You are ready to install a 90-day growth plan and finally scale with clarity",
+    ],
+  },
 ];
 
 export default function BooksPage() {
