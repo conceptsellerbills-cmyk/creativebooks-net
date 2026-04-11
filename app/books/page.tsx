@@ -1130,6 +1130,31 @@ const BOOKS = [
       "You are ready to install a 90-day growth plan and finally scale with clarity",
     ],
   },
+  {
+    title: "Own The Room: Calm Confidence, Magnetic Presence, and the High-Status Skills to Lead Any Situation",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/61e-ed5mzLL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GH21WCFQ",
+    kindleUrl: "https://www.amazon.com/dp/B0GGYFMXXD",
+    tag: "Confidence & Social Presence",
+    badge: "Available Now",
+    shortDesc: "Walk into any room — meeting, date, interview, group hangout — and feel the shift. Not because you're louder or fake, but because you've learned the real skill behind charisma: calm authority.",
+    longDesc: "Own the Room is a practical, modern guide to presence, confidence, and social power — without arrogance, manipulation, or alpha games. You'll learn how high-status people communicate, handle pressure, and stay grounded when the spotlight turns on them. This isn't a book of tricks. It's a system for becoming the person who leads — calmly, clearly, and consistently.",
+    topics: [
+      "Build magnetic presence through nervous system control — confidence that's natural, not performed",
+      "Speak with clarity and impact without overexplaining or proving yourself",
+      "Handle disrespect, social tests, envy, and projection while staying unshakable",
+      "Master meetings, presentations, and Q&A moments with calm control",
+      "Negotiate with quiet power and protect your standards",
+      "Create attraction that feels safe and express desire without neediness",
+    ],
+    forYouIf: [
+      "You are tired of shrinking, overthinking, or feeling invisible in groups",
+      "You want to be respected without becoming cold or arrogant",
+      "You want confidence that comes from within — not performance or tricks",
+      "You are ready to step into your real presence and keep it — no matter who's watching",
+    ],
+  },
 ];
 
 export default function BooksPage() {
