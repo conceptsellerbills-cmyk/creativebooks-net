@@ -1080,6 +1080,31 @@ const BOOKS = [
       "You are ready to reclaim your energy — without losing your heart",
     ],
   },
+  {
+    title: "Mastering Lucid Dreams: From First Lucid Dream to Full Control",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71NNFSq3nOL._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GHHVQFWK",
+    kindleUrl: "https://www.amazon.com/dp/B0GHFGJXYS",
+    tag: "Lucid Dreaming & Dream Control",
+    badge: "Available Now",
+    shortDesc: "A practical, modern guide for anyone who wants to wake up inside their dreams and stay there long enough to actually do something with it — from first lucid dream to full, stable control.",
+    longDesc: "Mastering Lucid Dreams gives you a clear step-by-step system using proven techniques like MILD, WBTB, and SSILD that fit real life. Then goes beyond getting lucid into the skills most people miss: stabilization, emotional control, preventing the wake-up spike, and extending lucids across multiple scenes. You'll also learn how to use lucid dreams for creativity, skill rehearsal, and confidence training — without getting lost in superstition.",
+    topics: [
+      "How to remember more dreams and recognize lucidity triggers",
+      "Proven beginner-to-advanced lucid techniques: MILD, WBTB, SSILD",
+      "Stabilization mastery: longer, clearer, more vivid lucid dreams",
+      "Full control skills: flying, telekinesis, teleportation, and world-building",
+      "Turning nightmares and sleep paralysis into lucid opportunities",
+      "A long-term system to avoid plateaus and keep improving",
+    ],
+    forYouIf: [
+      "You are a beginner who has never had a lucid dream and want to start",
+      "You have had a few lucid dreams but want consistency and control",
+      "You want to use lucid dreams for creativity, healing, or self-understanding",
+      "You want a complete roadmap to make lucidity reliable — night after night",
+    ],
+  },
 ];
 
 export default function BooksPage() {
