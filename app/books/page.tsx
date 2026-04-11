@@ -1055,6 +1055,31 @@ const BOOKS = [
       "You are ready to build a sex life that lasts — without pressure or shame",
     ],
   },
+  {
+    title: "Stop Absorbing Everyone's Energy: How to Stop Carrying Other People's Feelings and Finally Feel Like Yourself",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71bO4yWPF8L._SL1499_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GHK4QLMB",
+    kindleUrl: "https://www.amazon.com/dp/B0GGZ64S3V",
+    tag: "Energy Protection & Empaths",
+    badge: "Available Now",
+    shortDesc: "If you feel drained after conversations, overwhelmed in crowds, or emotionally contaminated by other people's moods — you're not weak, you're unprotected. A grounded guide to staying warm without being porous.",
+    longDesc: "Stop Absorbing Everyone's Energy teaches how emotional absorption actually works and why it feels so automatic — then shows you how to build boundaries that don't turn you into a cold person. This book doesn't teach you to be less sensitive. It teaches you to stay sensitive and stay solid. You can care deeply without carrying. And when you keep your energy, you keep your life.",
+    topics: [
+      "Stop over-responsibility, over-explaining, and over-giving without guilt",
+      "Set calm, repeatable boundaries that don't invite arguments",
+      "Handle pushy people, guilt trips, gaslighting, and emotional blackmail",
+      "Protect your sleep, mornings, and attention from invisible drain",
+      "Disengage from narcissistic patterns without drama",
+      "Build a personal protection system of rules, rituals, and standards that lasts",
+    ],
+    forYouIf: [
+      "You are an empath, HSP, chronic people-pleaser, or simply carry everyone's emotions",
+      "You feel chronically exhausted, anxious, or resentful without knowing why",
+      "You want boundaries that protect you without making you cold",
+      "You are ready to reclaim your energy — without losing your heart",
+    ],
+  },
 ];
 
 export default function BooksPage() {
