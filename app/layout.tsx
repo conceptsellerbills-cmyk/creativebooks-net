@@ -1,11 +1,15 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
-const SITE_NAME = "CreativeBooks";
+const SITE_NAME = "Creative Books";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.creativebooks.net"),
   title: { default: SITE_NAME, template: `%s | ${SITE_NAME}` },
-  description: "Transformative books on anxiety, emotional freedom, overthinking, and inner wealth. Available on Amazon.",
+  description: "Expert guides, reviews and tips.",
+  alternates: {
+    canonical: "/",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -13,12 +17,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <body>
         <header className="site-header">
-          <div className="container" style={{ display: "flex", alignItems: "center", justifyContent: "space-between" }}>
+          <div className="container">
             <a href="/" className="site-brand">{SITE_NAME}</a>
-            <nav style={{ display: "flex", gap: "20px", alignItems: "center" }}>
-              <a href="/" style={{ fontSize: "0.875rem", color: "var(--muted)", textDecoration: "none" }}>Home</a>
-              <a href="/books" style={{ fontSize: "0.875rem", color: "#a78bfa", textDecoration: "none", fontWeight: 700 }}>📚 Our Books</a>
-            </nav>
           </div>
         </header>
         <main className="container main-content">{children}</main>
