@@ -705,6 +705,31 @@ const BOOKS = [
       "You want to stop repeating the same lessons and live with direction",
     ],
   },
+  {
+    title: "The Destiny Code: Numerology, Signs, Synchronicities, and the Beautiful Logic of Why Nothing Is Random",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/8106dARb1-L._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GKD8KSXG",
+    kindleUrl: "https://www.amazon.com/dp/B0GJMW2XSR",
+    tag: "Numerology & Synchronicity",
+    badge: "Available Now",
+    shortDesc: "Have you ever glanced at 11:11 and felt like life was trying to get your attention? A grounded, powerful way to understand synchronicities, repeating numbers, and symbolic messages — without turning spirituality into obsession.",
+    longDesc: "The Destiny Code blends modern, practical spirituality with real-life cause-and-effect, showing how signs often appear at choice points — the exact moments your decisions shape your future. This isn't a book that tells you to 'just believe.' It shows you how to become the person who can recognize guidance, act with clarity, and build a life that feels aligned from the inside out.",
+    topics: [
+      "Understand repeating numbers (11:11, 222, 444, 888) as awareness triggers, not fortune-telling",
+      "Spot karmic loops — patterns that repeat until you learn the lesson",
+      "Use your body and nervous system as an inner compass",
+      "Build proof loops to grow faith through evidence, not blind hope",
+      "Shift timelines through micro-choices that compound into big life changes",
+      "Stay steady in the silent phase when nothing seems to happen",
+    ],
+    forYouIf: [
+      "You notice repeating numbers and feel like life is trying to get your attention",
+      "You want to stop chasing signs for reassurance and use them for self-mastery",
+      "You are ready to trust your intuition and act with clarity",
+      "You want a spiritual approach grounded in logic, not blind belief",
+    ],
+  },
 ];
 
 export default function BooksPage() {
