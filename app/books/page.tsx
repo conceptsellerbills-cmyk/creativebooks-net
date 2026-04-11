@@ -955,6 +955,31 @@ const BOOKS = [
       "You want a 30-day system that protects you long-term",
     ],
   },
+  {
+    title: "Karmic Bonds vs. Soulmates: The Truth About Soul Connections",
+    author: "JustAwakenSpirit",
+    cover: "https://m.media-amazon.com/images/I/71p3QH5367L._SY466_.jpg",
+    paperbackUrl: "https://www.amazon.com/dp/B0GHS8LSRS",
+    kindleUrl: "https://www.amazon.com/dp/B0GHRKQC8X",
+    tag: "Karmic Bonds & Soul Connections",
+    badge: "Available Now",
+    shortDesc: "Stop confusing intensity with destiny. If your relationship cycles between passion, confusion, distance, and reunion — you may be in a karmic bond, not a soulmate connection.",
+    longDesc: "Karmic Bonds vs. Soulmates is a grounded spiritual guide to relationship discernment and healing. It helps you identify unhealthy patterns fast, break emotional addiction, and rebuild the secure inner foundation required for lasting love. For anyone tired of overthinking, chasing, and hoping someone will change — this is love measured in behavior, not promises.",
+    topics: [
+      "How karmic cycles work and why they are so addictive",
+      "The difference between chemistry, attachment, and true compatibility",
+      "Red flags people mistake for passion",
+      "Practical boundaries that reveal the truth instantly",
+      "How to detach, heal, and stop re-entering the same loop",
+      "How to call in a healthy soulmate relationship without losing yourself",
+    ],
+    forYouIf: [
+      "Your relationship feels like a cycle of highs and lows that never resolves",
+      "You keep losing clarity, self-trust, and peace in your connections",
+      "You want to understand the difference between karmic and soulmate love",
+      "You are ready for love with integrity — measured in behavior, not promises",
+    ],
+  },
 ];
 
 export default function BooksPage() {
