@@ -29,6 +29,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           .cat-nav:hover .cat-dropdown,.cat-nav:focus-within .cat-dropdown{display:block}
           .cat-dropdown a{display:block;padding:9px 14px;border-radius:8px;color:#c8cad8;font-size:0.875rem;text-decoration:none;transition:background 0.1s,color 0.1s;white-space:nowrap}
           .cat-dropdown a:hover{background:rgba(255,255,255,0.06);color:#f97316}
+          .books-btn{background:rgba(249,115,22,0.12);border:1px solid rgba(249,115,22,0.35);color:#f97316;font-size:0.875rem;font-weight:700;padding:8px 16px;border-radius:8px;cursor:pointer;text-decoration:none;white-space:nowrap;transition:background 0.15s,border-color 0.15s;display:inline-flex;align-items:center;gap:6px}
+          .books-btn:hover{background:rgba(249,115,22,0.22);border-color:#f97316}
           .site-footer{border-top:1px solid rgba(255,255,255,0.07);padding:24px 0;margin-top:60px}
           .site-footer p{color:#6b7280;font-size:0.82rem;text-align:center}
         `}</style>
@@ -63,6 +65,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <a href="/category/business">💼 Business Books</a>
               </div>
             </nav>
+            <a href="/books" className="books-btn">📚 Books</a>
           </div>
         </header>
         <main className="container main-content">{children}</main>
