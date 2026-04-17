@@ -5,6 +5,7 @@ import NewsletterForm from '../components/NewsletterForm'
 export const metadata: Metadata = {
   title: "Best Books for Creatives — Reviews & Reading Lists 2025",
   description: "Curated book reviews for writers, designers, photographers and artists. Discover your next creative obsession.",
+  alternates: { canonical: "https://www.creativebooks.net" },
 };
 
 const STARS = (n: number) => "★".repeat(n) + "☆".repeat(5 - n);
