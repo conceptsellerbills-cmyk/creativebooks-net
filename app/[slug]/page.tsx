@@ -20,7 +20,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title: post.title,
     description: post.description,
     keywords: post.keyword,
-    openGraph: { title: post.title, description: post.description, type: "article" },
+    openGraph: {
+      title: post.title,
+      description: post.description || "",
+      type: "article",
+      url: `https://www.creativebooks.net/${slug}`,
+      siteName: "Creative Books",
+      publishedTime: post.date,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: post.title,
+      description: post.description || "",
+    },
     alternates: { canonical: `https://www.creativebooks.net/${slug}` },
   };
 }
@@ -37,9 +49,19 @@ export default async function ArticlePage({ params }: Props) {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: post.title,
-    description: post.description,
-    datePublished: post.date,
-    keywords: post.keyword,
+    description: post.description || "",
+    datePublished: post.date || new Date().toISOString().split("T")[0],
+    dateModified: post.date || new Date().toISOString().split("T")[0],
+    url: `https://www.creativebooks.net/${slug}`,
+    mainEntityOfPage: { "@type": "WebPage", "@id": `https://www.creativebooks.net/${slug}` },
+    author: { "@type": "Organization", name: "Creative Books", url: "https://www.creativebooks.net" },
+    publisher: {
+      "@type": "Organization",
+      name: "Creative Books",
+      url: "https://www.creativebooks.net",
+      logo: { "@type": "ImageObject", url: "https://www.creativebooks.net/logo.png", width: 200, height: 60 }
+    },
+    keywords: post.keyword || "",
   });
 
   return (
