@@ -67,3 +67,13 @@ For the new true crime reader, a suggested progression:
 4. Branch into subgenres: fraud cases, wrongful convictions, or historical crimes each have their own rich literature
 
 For the established true crime reader, the 2025 titles above offer fresh perspectives, underreported stories, and levels of journalistic rigor that distinguish them from more sensational entries in the genre.
+
+---
+
+## Related Articles
+
+- [How to Get Published: A Complete Guide for First-Time Authors (2025)](/how-to-get-published-first-time-authors)
+- [How to Read More Books: 12 Proven Strategies That Actually Work](/how-to-read-more-books)
+- [Best Books on Creative Writing 2025: The Ultimate Reading List for Writers](/best-books-on-creative-writing-2025)
+- [Best Fiction Books of 2025: Must-Read Novels This Year](/best-fiction-books-2025)
+- [Best Nonfiction Books 2025: Must-Read True Stories and Ideas](/best-nonfiction-books-2025)
