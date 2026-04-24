@@ -165,3 +165,13 @@ After each book, choose one principle and apply it deliberately to your next pro
 ## Bottom Line
 
 Design books are investments that pay dividends for decades. Every principle you internalize from Lupton's typography, Müller-Brockmann's grid thinking, or Norman's human-centered design quietly informs every decision you make for the rest of your career. Build the shelf. Read it slowly. Design from first principles.
+
+---
+
+## Related Articles
+
+- [Best Graphic Novels 2025: Essential Reads for Every Reader](/best-graphic-novels-2025)
+- [Best Historical Fiction 2025: Vivid Stories That Bring the Past to Life](/best-historical-fiction-2025)
+- [Best Photography Books 2025: Essential Reading for Every Photographer](/best-photography-books-2025)
+- [How to Write a Novel: The Complete Beginner's Guide (2025)](/how-to-write-a-novel-beginners-guide)
+- [Best Books on Personal Finance in 2025: Build Wealth the Right Way](/best-books-on-personal-finance-2025)
